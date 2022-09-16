@@ -1,7 +1,7 @@
 import vk_api
 from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
 
-TOKEN = '0f1d4e6254d63423f1b0868d1bf1c5e8130b123a8a15f6a077edbbd33e07fa8620aecf62dcf0da52700b5'
+TOKEN = ''
 pref = '..'
 
 
